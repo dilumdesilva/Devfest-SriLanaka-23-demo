@@ -1,0 +1,14 @@
+{
+    "myTodos": "My TODOs",
+    "failedToFetchTodoCards": "Failed to fetch todo cards",
+    "delete": "Delete",
+    "pinToTop": "Pin to top",
+    "unPin": "Un-Pin",
+    "failedToFetchTodoList" : "Failed to fetch Todo list : {error}",
+    "confirm": "Confirm",
+    "cancelText": "Cancel",
+    "yesText": "Yes",
+    "areYouSureYouWantToDeleteThisTodo": "Are you sure you want to delete this todo?",
+     "noTodosFoundCreateYourFirstTodo": "No todos found create your first TODO",
+     "somethingWentWrongPleaseTryAgain": "Something went wrong please try again"
+}
